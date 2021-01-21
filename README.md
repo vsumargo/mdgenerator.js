@@ -34,7 +34,7 @@ This is a markdown files generator that takes user input from command-line and r
 
 1. Video of mdgenerator.js
 
-![Screenshoot of mdgenerator.js](assets/screenshoot-mdgenerator.png)
+![Screenshoot of mdgenerator.js](assets/screenshoot-mdgenerator.PNG)
 
 [Video of mdgenerator.js](https://drive.google.com/file/d/1fQX1y2jXvxaicw2wog2XXf5oJer4JdyH/view)
 
