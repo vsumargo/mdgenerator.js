@@ -1,0 +1,14 @@
+{
+  "name": "mdgenerator.js",
+  "version": "1.0.0",
+  "description": "a generator used to create READEME.md files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vincent sumargo @ https://github.com/vsumargo",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  }
+}
