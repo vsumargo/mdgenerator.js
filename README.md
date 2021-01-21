@@ -6,8 +6,8 @@ This is a markdown files generator that takes user input from command-line and r
 
 ## Version History
 
-* **Version 0.0 - 21-Jan-2021
-    intial working app with 2 source code: package.json & index.js
+* Version 0.0 - 21-Jan-2021
+    initial working app with 2 source code: package.json & index.js
 
 
 ## Installation Methods
@@ -34,7 +34,9 @@ This is a markdown files generator that takes user input from command-line and r
 
 1. Video of mdgenerator.js
 
-[![Video of mdgenerator.js](./assets/screenshoot-mdgenerator.png)](https://drive.google.com/file/d/1fQX1y2jXvxaicw2wog2XXf5oJer4JdyH/view)
+![Screenshoot of mdgenerator.js](./assets/screenshoot-mdgenerator.png)
+
+[Video of mdgenerator.js](https://drive.google.com/file/d/1fQX1y2jXvxaicw2wog2XXf5oJer4JdyH/view)
 
 
 ## Links
